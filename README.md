@@ -1,4 +1,4 @@
-# Unary-calculator-Turing-machine
+
 # Unary Calculator Turing Machine
 
 This repository contains my CS154 Unary Calculator term project files implemented using JFLAP 7.1.
